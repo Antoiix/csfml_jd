@@ -9,7 +9,7 @@
 <h2 align="center">You want to introduce you to CSFML ?</h2>
 <h3 align="center">Just follow the following rules !</h3>
 
-- add execution permission with ``chmod``
+- add execution permission with ``chmod 777 ./build_csfml.sh``
 - execute : ``sudo ./build_csfml.sh``
 - run with ``make run``
 
